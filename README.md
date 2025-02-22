@@ -1,5 +1,7 @@
 # Bitcoin-generator-and-balance-
-Generate addresses, check their balance
+Batch Generate addresses, check their balance on electrum
+
+Disclaimer --> For educational content only
 
 
 # Bitcoin Wallet Balance Checker
