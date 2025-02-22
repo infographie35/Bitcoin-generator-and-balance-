@@ -19,10 +19,10 @@ This repository contains a Python script that:
 
 2. **Configuration:**  
    Update the file paths in the script for:
-   - Electrum executable
+   - electrum-4.5.5-portable.exe
    - CSV output file for wallets with a positive balance
 
 3. **Run the Script:**  
    Execute the script in your terminal:
    ```bash
-   python script.py
+   python btc_generator_checker.py
