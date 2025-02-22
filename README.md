@@ -25,6 +25,7 @@ This repository contains a Python script that:
    - CSV output file for wallets with a positive balance
 
 3. **Run the Script:**  
+   Edit your path (electrum-4.5.5-portable.exe and where to save positive balance file)
    Execute the script in your terminal:
    ```bash
    python btc_generator_checker.py
