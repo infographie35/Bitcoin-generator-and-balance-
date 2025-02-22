@@ -17,7 +17,7 @@ This repository contains a Python script that:
 ## How to Use
 
 1. **Dependencies:**  
-   Ensure you have Python 3.7+ and the necessary packages installed (e.g., `asyncio`, `subprocess`, `ecdsa`, etc.). Also, download the portable Electrum client.
+   Ensure you have Python and the necessary packages installed (e.g., `asyncio`, `subprocess`, `ecdsa`, etc.). Also, download the portable Electrum client.
 
 2. **Configuration:**  
    Update the file paths in the script for:
@@ -25,7 +25,7 @@ This repository contains a Python script that:
    - CSV output file for wallets with a positive balance
 
 3. **Run the Script:**  
-   Edit your path (electrum-4.5.5-portable.exe and where to save positive balance file)
+
    Execute the script in your terminal:
    ```bash
    python btc_generator_checker.py
