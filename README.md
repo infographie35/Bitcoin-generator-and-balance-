@@ -23,6 +23,7 @@ This repository contains a Python script that:
    Update the file paths in the script for:
    - electrum-4.5.5-portable.exe
    - CSV output file for wallets with a positive balance
+   - Adjust generated wallets Batch size - Line #232
 
 3. **Run the Script:**  
 
